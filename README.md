@@ -29,5 +29,5 @@ L'analyse a été effectuée avec **Python**. Les bibliothèques suivantes sont 
 4. Exécutez les cellules pour générer les analyses de convergence pour $f_2, f_8, f_{10}, f_{15}$ et $f_{21}$ avec le menu de choix implémenté comme illustré ci-dessous :
 
 <p align="center">
-  <img src="figures/menu_choix_algo_probleme.png" width="500" alt="Illustration du menu de choix">
+  <img src="figures/menu_choix_algo_probleme.png" width="450" alt="Illustration du menu de choix">
 </p>
