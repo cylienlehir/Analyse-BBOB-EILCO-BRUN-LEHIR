@@ -22,8 +22,12 @@ L'analyse a été effectuée avec **Python**. Les bibliothèques suivantes sont 
 2. Ouvrez le notebook `scripts/main_analyse_G3PCX_STEPif_RandomSearch.ipynb`.
 3. Importez tous les jeux de données brutes disponibles dans le dossier `/data` comme illustré ci-dessous :
 
-![Illustration des fichiers importés ](figures/import_data_fichier.png)
+<p align="center">
+  <img src="figures/import_data_fichier.png" width="600" alt="Illustration des fichiers importés">
+</p>
 
 4. Exécutez les cellules pour générer les analyses de convergence pour $f_2, f_8, f_{10}, f_{15}$ et $f_{21}$ avec le menu de choix implémenté comme illustré ci-dessous :
 
-![Illustration du menu de choix ](figures/menu_choix_algo_probleme.png)
+<p align="center">
+  <img src="figures/menu_choix_algo_probleme.png" width="600" alt="Illustration du menu de choix">
+</p>
