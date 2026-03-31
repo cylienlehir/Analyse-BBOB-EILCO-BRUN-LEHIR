@@ -3,7 +3,7 @@
 Ce dépôt contient les travaux réalisés par **Guillaume Brun** et **Cylien Lehir** dans le cadre du séminaire scientifique de l'EILCO. L'objectif est d'analyser et de comparer les performances des algorithmes **G3PCX**, **STEPif** et **RandomSearch-5**.
 
 ## Reproductibilité
-Ce projet est conçu pour être entièrement reproductible par n'importe qui.
+Ce projet est conçu pour être entièrement reproductible par n'importe qui. Les analyses reposent sur des jeux de données générés via le benchmark BBOB (Black-Box Optimization Benchmarking).
 
 ### Configuration requise
 L'analyse a été effectuée avec **Python**. Les bibliothèques suivantes sont nécessaires :
@@ -20,5 +20,10 @@ L'analyse a été effectuée avec **Python**. Les bibliothèques suivantes sont 
 ## Utilisation
 1. Clonez ce dépôt.
 2. Ouvrez le notebook `scripts/main_analyse_G3PCX_STEPif_RandomSearch.ipynb`.
-3. Importez tous les jeux de données brutes disponibles dans le dossier `/data`
-4. Exécutez les cellules pour générer les analyses de convergence pour $f_2, f_8, f_{10}, f_{15}$ et $f_{21}$ avec le menu de choix implémenté.
+3. Importez tous les jeux de données brutes disponibles dans le dossier `/data` comme illustré ci-dessous :
+
+![Illustration des fichiers importés ](figures/import_data_fichier.png)
+
+4. Exécutez les cellules pour générer les analyses de convergence pour $f_2, f_8, f_{10}, f_{15}$ et $f_{21}$ avec le menu de choix implémenté comme illustré ci-dessous :
+
+![Illustration du menu de choix ](figures/menu_choix_algo_probleme.png)
