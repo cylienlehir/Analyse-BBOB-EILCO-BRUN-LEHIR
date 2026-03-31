@@ -23,11 +23,11 @@ L'analyse a été effectuée avec **Python**. Les bibliothèques suivantes sont 
 3. Importez tous les jeux de données brutes disponibles dans le dossier `/data` comme illustré ci-dessous :
 
 <p align="center">
-  <img src="figures/import_data_fichier.png" width="300" alt="Illustration des fichiers importés">
+  <img src="figures/import_data_fichier.png" width="200" alt="Illustration des fichiers importés">
 </p>
 
 4. Exécutez les cellules pour générer les analyses de convergence pour $f_2, f_8, f_{10}, f_{15}$ et $f_{21}$ avec le menu de choix implémenté comme illustré ci-dessous :
 
 <p align="center">
-  <img src="figures/menu_choix_algo_probleme.png" width="300" alt="Illustration du menu de choix">
+  <img src="figures/menu_choix_algo_probleme.png" width="400" alt="Illustration du menu de choix">
 </p>
